@@ -1,5 +1,3 @@
-#Ecrire un programme en Python qui permet de transformer une adresse url saisie au
-# clavier en un lien hypertexte.
 # Lire adresse url
 url = input("Saisir une url : ")
 # Lire le texte du lien hypertexte
